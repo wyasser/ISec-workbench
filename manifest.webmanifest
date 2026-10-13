@@ -1,0 +1,19 @@
+{
+  "name": "CBE Cyber Compliance Workbench",
+  "short_name": "CBE Workbench",
+  "description": "Assess Egyptian banks against the CBE Financial Cybersecurity Framework, with optional AI evidence analysis.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EEF2F1",
+  "theme_color": "#1C5D73",
+  "lang": "en",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
